@@ -11,9 +11,7 @@ I am building this portfolio to present my cybersecurity coursework, technical d
 - GitHub portfolio updates throughout the term
 
 ## Certifications
-- Current or planned certifications will be listed here
-- Coursework-related credentials and training will be added as completed
 
 ## Contact
-- GitHub: https://github.com/yourusername
-- Email: your-email@example.com
+- GitHub: https://github.com/GitWitIt-CM
+- Email: cmzx222@gmail.com
