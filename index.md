@@ -56,8 +56,7 @@ This site was created as a professional portfolio to organize my cybersecurity c
 ## Certifications & Training
 
 - Cybersecurity and Network Systems coursework — in progress/completed through Hocking College
-- Additional certifications planned: Security+, Cisco, or related entry-level cybersecurity certifications
-
+- NET-2650 Network Systems Security capstone coursework
 ---
 
 ## Contact
