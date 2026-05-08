@@ -52,7 +52,7 @@ This site was created as a professional portfolio to organize my cybersecurity c
 
 ## Certifications & Training
 
-- Cybersecurity and Network Systems coursework — in progress/completed through Hocking College
+- Cybersecurity and Network Systems coursework — Hocking College
 - NET-2650 Network Systems Security capstone coursework
 ---
 
