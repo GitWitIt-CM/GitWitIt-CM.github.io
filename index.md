@@ -1,8 +1,4 @@
 
-[View My GitHub Profile](https://github.com/GitWitIt-CM)
-
----
-
 ## About Me
 
 I am a Cybersecurity and Network Systems student building technical skills in network security, log analysis, documentation, and professional cybersecurity practices. This portfolio highlights coursework from NET-2650, including security analysis, evidence documentation, intrusion methodology, and professional reporting.
