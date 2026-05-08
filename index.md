@@ -9,25 +9,45 @@ My goal is to continue developing practical cybersecurity skills and build a por
 
 ## Projects
 
-### Professional Ethics & Scope Acknowledgment
+### Evidence & Documentation Practice Lab
 
-This project focused on the importance of working within an approved cybersecurity scope. I explained why scope matters, what activities are out of bounds, and how ethical decision-making protects both the client and the analyst. This helped show my understanding of professional responsibility in cybersecurity work.
+This lab focused on documenting cybersecurity evidence in a clear and professional way. I practiced recording technical details so that another person could understand what was observed, where the evidence came from, and why documentation matters in security work.
 
-### Evidence & Documentation Drill
+### Phishing Threat & Audience Analysis
 
-For this assignment, I documented evidence from Windows and Linux systems in a way that would be clear and reproducible. I focused on capturing useful system information, recording observations, and explaining why proper evidence documentation matters in security work.
+This project analyzed phishing as a cybersecurity threat and considered how different audiences may respond to it. I focused on identifying the risk, explaining why the threat matters, and connecting the message to the intended audience.
 
-### Intrusion Methodology Analysis
+### Program Framework Proposal
 
-This project analyzed common intrusion methods such as credential abuse, brute-force attempts, and service misuse. I explained what indicators may appear in system logs and how analysts can avoid jumping to conclusions without enough evidence.
+For this assignment, I created a framework for a cybersecurity awareness program. The proposal helped organize the purpose, audience, goals, and structure of the program before building out the full materials.
 
-### Log Observation Lab
+### Campaign Material Drafts
 
-In this lab, I reviewed Windows and Linux logs to identify normal and suspicious activity. I documented events, explained why they were normal or suspicious, and described possible next steps an analyst could take.
+This project involved creating draft cybersecurity awareness materials for a campaign. I focused on making the content clear, professional, and understandable for the target audience.
 
-### GitHub Pages Portfolio
+### Event Engagement Plan
 
-This site was created as a professional portfolio to organize my cybersecurity coursework, technical skills, certifications, and contact information in one public-facing location.
+This assignment focused on planning how to engage an audience during a cybersecurity-related event. I considered how to communicate the topic clearly and make the material useful for participants.
+
+### Event Analysis Report
+
+For this report, I reviewed and analyzed the effectiveness of a cybersecurity event or campaign component. I focused on explaining what worked, what could be improved, and how the project connected to cybersecurity awareness goals.
+
+### Training Module Development
+
+This project involved developing a training module for cybersecurity awareness. I focused on organizing the topic in a way that would be easy for users to understand and apply.
+
+### Phishing Simulation Plan
+
+This assignment focused on designing a phishing simulation in a safe and educational way. I explained the scenario, target audience, purpose, and how the simulation could help users recognize phishing attempts.
+
+### Final Program Package
+
+This final project brought together the main parts of the cybersecurity awareness program into one complete package. It showed my ability to organize materials, communicate security concepts, and present a professional final product.
+
+### Final Capstone Presentation
+
+For the final presentation, I presented the completed capstone work in a professional format. This helped demonstrate my ability to explain cybersecurity concepts clearly and summarize project results for an audience.
 
 ---
 
