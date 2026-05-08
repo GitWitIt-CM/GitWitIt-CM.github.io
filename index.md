@@ -1,6 +1,3 @@
-# Cameron McKenzie | Cybersecurity Portfolio
-
-Cybersecurity and Network Systems portfolio for NET-2650.
 
 [View My GitHub Profile](https://github.com/GitWitIt-CM)
 
